@@ -1,3 +1,12 @@
+Russian version of RFC stack_library
+The original version contains nothing but the English version.
+
+Русская версия RFC stack_library
+Оригинальный rfc не содержит никаких других версий кроме английской. 
+
+#
+
+
 Background
 ===
 
